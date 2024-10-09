@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reshp10.10.2024/static/css/main.fad3ba11.css",
+    "main.js": "/reshp10.10.2024/static/js/main.39181138.js",
+    "index.html": "/reshp10.10.2024/index.html",
+    "main.fad3ba11.css.map": "/reshp10.10.2024/static/css/main.fad3ba11.css.map",
+    "main.39181138.js.map": "/reshp10.10.2024/static/js/main.39181138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad3ba11.css",
+    "static/js/main.39181138.js"
+  ]
+}
